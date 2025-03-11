@@ -20,7 +20,7 @@ The application is divided into several key modules:
 To run this project locally, follow these steps:
 
 - __Clone the repository:__
- git clone https://github.com/Shaikh-Aiman/Patient-Health-Tracker.git
+ git clone https://github.com/madiefication/Patient_Health_Tracker_PHP.git
 - __Navigate to the project directory:__
 cd Patient-Health-Tracker
 - __Setup Database:__
